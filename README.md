@@ -4,6 +4,6 @@ This python script will put/add a field called 'tiffvalue' or whatever user sele
 
 This python script need the python class HeatMap.py, so you must download it and put into same directory,  remember to create and empty file called '__init__.py' also, python need it.
 
-# USE
+# Use
 
 tiffvalue.py -hm mask.tiff sourceB-splitted.shp
