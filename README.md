@@ -10,7 +10,8 @@ tiffvalue.py -hm mask.tiff sourceB-splitted.shp
 
 # Requisites
 
-python-progressbar -> http://code.google.com/p/python-progressbar/
+python-progressbar -> http://code.google.com/p/python-progressbar
+
 python-gdal 
 
 How to install into Ubuntu (using ppa ubuntugis-stable or ubuntugis-unstable)
