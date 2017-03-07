@@ -7,3 +7,13 @@ This python script need the python class HeatMap.py, so you must download it and
 # Use
 
 tiffvalue.py -hm mask.tiff sourceB-splitted.shp
+
+# Requisites
+
+python-progressbar -> http://code.google.com/p/python-progressbar/
+python-gdal 
+
+How to install into Ubuntu (using ppa ubuntugis-stable or ubuntugis-unstable)
+( https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa )
+
+sudo apt install gdal-bin python-gdal python-progressbar
