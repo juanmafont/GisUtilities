@@ -8,7 +8,7 @@
     The value of "tiffValue" field will come from the same features's coordinates but from a geotiff file,
     the geotiff file can has different size that the origin vector layer and could not cover all the extend, 
     in that case the value "returned" from that geotiff's positions will be '-9999'
-    If topology is a line, then the final calculate value will be the mediam of every vertex of the full line
+    The value save into 'tiffvalue' field will be the percent of line (% of length) over black zone
     The value of "lengthValue" will be the length of every linestring feature
 
 """
