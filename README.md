@@ -17,4 +17,4 @@ python-gdal
 How to install into Ubuntu (using ppa ubuntugis-stable or ubuntugis-unstable)
 ( https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa )
 
-sudo apt install gdal-bin python-gdal python-progressbar
+sudo apt-get install gdal-bin python-gdal python-progressbar
